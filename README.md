@@ -1,5 +1,3 @@
-Elbette, işte tam bir markdown formatında README dosyası:
-
 
 # Apartment Management Application with C# Form Application
 
